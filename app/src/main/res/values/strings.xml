@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beber Agua</string>
+    <string name="hint_interval_minutes">intervalo de minutos</string>
+    <string name="notify">notificação</string>
+    <string name="selected_time">"A hora selecionada é "</string>
+    <string name="error_interval">Digite um intervalo</string>
+    <string name="pause">pause</string>
+</resources>
